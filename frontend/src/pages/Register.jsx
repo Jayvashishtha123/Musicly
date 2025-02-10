@@ -75,7 +75,7 @@ const Register = () => {
             to="/login"
             className="text-sm text-gray-400 hover:text-gray-300"
           >
-            have account?
+            Have account?
           </Link>
         </div>
       </div>

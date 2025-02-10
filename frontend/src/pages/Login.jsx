@@ -22,7 +22,7 @@ const Login = () => {
     <div className="flex items-center justify-center h-screen max-h-screen">
       <div className="bg-black text-white p-8 rounded-lg shadow-lg max-w-md w-full">
         <h2 className="text-3xl font-semibold text-center mb-8">
-          Login to Spotify
+          Login to Musicly
         </h2>
 
         <form className="mt-8" onSubmit={submitHandler}>
@@ -62,7 +62,7 @@ const Login = () => {
             to="/register"
             className="text-sm text-gray-400 hover:text-gray-300"
           >
-            don't have accont?
+            Don't have account?
           </Link>
         </div>
       </div>
